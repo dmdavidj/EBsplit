@@ -45,3 +45,11 @@ Note
 If you are using 32-bit Windows or Python is not version 3.10 or 3.13, the offline installation of wheels may not work. In that case, connect to the internet and run build_exe.bat to automatically proceed to the online installation.
 
 To display only the GUI without a console window, add --noconsole to the end of the PyInstaller line in build_exe.bat and rebuild.
+
+before
+<img width="473" height="593" alt="image" src="https://github.com/user-attachments/assets/c1241bc1-4ead-466c-993f-9aa44a1cb6a1" />
+
+
+after
+<img width="703" height="721" alt="image" src="https://github.com/user-attachments/assets/d968ce65-e2b0-4fcc-9380-aa4923a10944" />
+
